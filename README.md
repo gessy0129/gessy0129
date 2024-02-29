@@ -1,8 +1,11 @@
 # profile
 
 Name : Yoshiharu Geshi
+
 Call Me : gessy / げっしー
+
 Job : ex-アンドパッド, ex-ヤフー, ex-ECナビ（CARTA HOLDINGS） etc...
+
 Birth : 1/29
 
 # Link
