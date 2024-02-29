@@ -1,12 +1,9 @@
 # profile
 
-Name : Yoshiharu Geshi
-
-Call Me : gessy / げっしー
-
-Job : ex-アンドパッド, ex-ヤフー, ex-ECナビ（CARTA HOLDINGS） etc...
-
-Birth : 1/29
+Name : Yoshiharu Geshi  
+Call Me : gessy / げっしー  
+Job : ex-アンドパッド, ex-ヤフー, ex-ECナビ（CARTA HOLDINGS） etc...  
+Birth : 1/29  
 
 # Link
 
@@ -32,14 +29,14 @@ Birth : 1/29
 
 ## Media
 
-https://www.wantedly.com/companies/forstartups/post_articles/419125
-https://levtech.jp/media/article/column/detail_232/
-https://logmi.jp/tech/articles/328464
-https://flatt.tech/magazine/entry/20230615_andpad_interview
-
-https://andpad.connpass.com/event/243436/
-https://note.com/ivs19/n/n3ec29dd72f95
-https://aws.amazon.com/jp/blogs/startup/cto-night-and-day-2022-nagasaki-day2/
-
-https://www.itmedia.co.jp/news/articles/2206/22/news058.html
-https://www.itmedia.co.jp/news/articles/2207/04/news030.html
+https://www.wantedly.com/companies/forstartups/post_articles/419125  
+https://levtech.jp/media/article/column/detail_232/  
+https://logmi.jp/tech/articles/328464  
+https://flatt.tech/magazine/entry/20230615_andpad_interview  
+  
+https://andpad.connpass.com/event/243436/  
+https://note.com/ivs19/n/n3ec29dd72f95  
+https://aws.amazon.com/jp/blogs/startup/cto-night-and-day-2022-nagasaki-day2/  
+  
+https://www.itmedia.co.jp/news/articles/2206/22/news058.html  
+https://www.itmedia.co.jp/news/articles/2207/04/news030.html  
