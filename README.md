@@ -18,6 +18,31 @@ Birth : 1/29
 | eight | https://8card.net/virtual_cards/tS_T1pPr9uzLMJgCaUKwLA |
 | YouTrust | https://youtrust.jp/users/gessy |
 
+## 技術顧問歴など
+
+**随時SNSなどで相談を受け付けてます！**
+
+- 大手HR新サービス
+  - 技術顧問
+    - インフラ、自動テスト整備
+- ベンチャーゲームサービス
+  - 技術顧問
+    - 開発組織構築
+- ベンチャーtoB SaaSサービス
+  - 技術顧問
+    - 組織戦略
+- 医療系スタートアップ 
+  - 技術顧問
+    - ソフトウェア構築
+- ベンチャーtoB SaaSサービス
+  - 技術顧問
+    - インフラ整備
+- ベンチャーtoB SaaSサービス
+  - 技術顧問
+    - メンバーメンター
+- ベンチャーHRサービス
+  - 新サービス構築
+
 ## Media
 
 https://www.wantedly.com/companies/forstartups/post_articles/419125  
